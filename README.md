@@ -42,7 +42,7 @@
 
    <div align="center">
  
-   [![Website Badge](https://img.shields.io/badge/-agelospanagiotakis.com-4361EE?style=flat&logo=Google-Chrome&logoColor=white&link=https://agelospanagiotakis.com/)](https://agelospanagiotakis.com/)
+   [![Website Badge](https://img.shields.io/badge/-agelospanagiotakis.com-4361EE?style=flat&logo=Google-Chrome&logoColor=white&link=[https://agelospanagiotakis.com/](https://linktr.ee/agelosp))]([https://agelospanagiotakis.com/](https://linktr.ee/agelosp))
    [![Linkedin Badge](https://img.shields.io/badge/-Angelos%20Panagiotakis-4361EE?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelospanagiotakis)](https://www.linkedin.com/in/angelospanagiotakis) 
    [![Gmail Badge](https://img.shields.io/badge/-agelospanagiotakis@gmail.com-4361EE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agelospanagiotakis@gmail.com)](mailto:agelospanagiotakis@gmail.com)
    [![Stack OverFlow Badge](https://img.shields.io/badge/Stack_Overflow-4361EE?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/2558948/angelos)](https://stackoverflow.com/users/2558948/angelos)
