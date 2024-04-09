@@ -10,7 +10,7 @@
 
 - 👨‍💻 Flutter and Drupal Developer focused on helping people go to the next level.
 
-- 🔭 I’m currently freelancing.
+- 🔭 I’m currently freelancing. Need my services ? <a href="https://tidycal.com/agelospanagiotakis/">Book a meeting with me!</a>
  
 - 💬 Ask me about everything, I always enjoy helping people.
 
