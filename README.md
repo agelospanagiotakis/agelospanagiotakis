@@ -2,7 +2,7 @@
 
 <h3>🤙 How are you? Welcome to my profile.</h3>
 
-<h4>🤙 Please visit my <a href="https://agelospanagiotakis.web.app">flutter portfolio</a>.</h4>
+<h4>🤙 Please visit my <a target="_blank" href="https://agelospanagiotakis.web.app">flutter portfolio</a>.</h4>
 
 <img height="180em" align="right" src="https://user-images.githubusercontent.com/59374587/153518639-7a26f075-9621-4c47-bae8-e46c957d09a7.png"/>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 Flutter and Drupal Developer focused on helping people go to the next level.
 
-- 🔭 I’m currently freelancing. Need my services ? <a href="https://tidycal.com/agelospanagiotakis/">Book a meeting with me!</a>
+- 🔭 I’m currently freelancing. Need my services ? <a target="_blank" href="https://tidycal.com/agelospanagiotakis/">Book a meeting with me!</a>
  
 - 💬 Ask me about everything, I always enjoy helping people.
 
