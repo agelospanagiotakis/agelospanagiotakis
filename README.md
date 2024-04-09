@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Angelos Panagiotakis</h1>
 
-<h3>🤙 How are you? Welcome to my profile. I also use <a target="_blank" href="https://linktr.ee/agelosp">linktr</a> and <a target="_blank href="https://www.biodrop.io/agelospanagiotakis">biodrop.io</a> </h3>
+<h3>🤙 How are you? Welcome to my profile. I also use <a target="_blank" href="https://linktr.ee/agelosp">linktr</a> and <a target="_blank" href="https://www.biodrop.io/agelospanagiotakis">biodrop.io</a> and <a target="_blank" href="https://www.linkedin.com/in/angelospanagiotakis/">LinkedIn</a></h3>
 
 <h4>🤙 Please visit my <a target="_blank" href="https://agelospanagiotakis.web.app">flutter portfolio</a>.</h4>
 
